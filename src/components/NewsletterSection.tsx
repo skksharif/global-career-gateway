@@ -10,7 +10,7 @@ const NewsletterSection = () => {
     e.preventDefault();
     const subject = encodeURIComponent("Newsletter Subscription");
     const body = encodeURIComponent(`New newsletter subscription from: ${email}`);
-    window.open(`mailto:?subject=${subject}&body=${body}`, "_self");
+    window.open(`mailto:Divyareddy.visaaxis@gmail.com?subject=${subject}&body=${body}`, "_self");
   };
 
   return (

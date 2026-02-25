@@ -30,12 +30,12 @@ const HeroSection = () => {
   const handleSubmit = () => {
     const body = `Name: ${form.name}%0APhone: ${form.phone}%0ACountry: ${form.country}%0AAdmission Status: ${form.admissionStatus}%0AIntake: ${form.intake}%0ALoan Amount: ${form.loanAmount}`;
     const subject = encodeURIComponent("Education Loan & Abroad Admission Enquiry");
-    window.open(`mailto:?subject=${subject}&body=${body}`, "_self");
+    window.open(`mailto:Divyareddy.visaaxis@gmail.com?subject=${subject}&body=${body}`, "_self");
   };
 
   const handleWhatsApp = () => {
     const text = `Hi, I'd like to enquire about education loans.%0AName: ${form.name}%0APhone: ${form.phone}%0ACountry: ${form.country}%0AAdmission: ${form.admissionStatus}%0AIntake: ${form.intake}%0ALoan: ${form.loanAmount}`;
-    window.open(`https://wa.me/919985925152?text=${text}`, "_blank");
+    window.open(`https://wa.me/918977533255?text=${text}`, "_blank");
   };
 
   const canProceed = step === 1 ? form.name && form.phone && form.country && form.admissionStatus : form.intake && form.loanAmount;

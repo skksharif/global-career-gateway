@@ -10,7 +10,7 @@ const Footer = () => (
         {/* About */}
         <div>
           <h3 className="text-lg font-extrabold text-primary-foreground mb-4">
-            Abroad <span className="text-green-brand">Immigrations</span>
+            Visa<span className="text-green-brand">axis</span>
           </h3>
           <p className="text-primary-foreground/60 text-sm leading-relaxed mb-4">
             Grab Your Global Career Journey With Us. We provide end-to-end support for education loans, forex, visa processing, and university admissions.
@@ -57,8 +57,8 @@ const Footer = () => (
             <div className="flex items-start gap-2">
               <Phone className="w-4 h-4 text-green-brand mt-0.5 flex-shrink-0" />
               <div className="text-sm text-primary-foreground/60">
-                <p>+91 9985925152</p>
-                <p>+91 9666542557</p>
+                <p>+91 89775 33255</p>
+                <p>+91 90327 30825</p>
               </div>
             </div>
             <div className="flex items-start gap-2">
@@ -74,7 +74,7 @@ const Footer = () => (
       </div>
 
       <div className="border-t border-primary-foreground/10 pt-6 text-center">
-        <p className="text-xs text-primary-foreground/40">© 2025 Abroad Immigrations. All rights reserved.</p>
+        <p className="text-xs text-primary-foreground/40">© 2025 Visaaxis. All rights reserved.</p>
       </div>
     </div>
   </footer>
