@@ -56,7 +56,7 @@ const Header = () => {
           href="#home"
           className="text-primary-foreground font-heading font-extrabold text-xl tracking-tight"
         >
-          Visa<span className="text-green-brand">axis</span>
+          Visa<span className="text-green-brand">axsis</span>
         </a>
 
         {/* Desktop navigation */}

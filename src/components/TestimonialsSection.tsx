@@ -4,7 +4,7 @@ import { ChevronLeft, ChevronRight, Star } from "lucide-react";
 
 const testimonials = [
   {
-    text: "Visaaxis made my visa and education loan process stress-free. Highly professional and transparent.",
+    text: "Visa axsis made my visa and education loan process stress-free. Highly professional and transparent.",
     name: "Marinda Dilendira",
     location: "UK",
   },

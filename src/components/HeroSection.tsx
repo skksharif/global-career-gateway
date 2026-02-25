@@ -30,7 +30,7 @@ const HeroSection = () => {
   const handleSubmit = () => {
     const body = `Name: ${form.name}%0APhone: ${form.phone}%0ACountry: ${form.country}%0AAdmission Status: ${form.admissionStatus}%0AIntake: ${form.intake}%0ALoan Amount: ${form.loanAmount}`;
     const subject = encodeURIComponent("Education Loan & Abroad Admission Enquiry");
-    window.open(`mailto:Divyareddy.visaaxis@gmail.com?subject=${subject}&body=${body}`, "_self");
+    window.open(`mailto:Divyareddy.visaaxsis@gmail.com?subject=${subject}&body=${body}`, "_self");
   };
 
   const handleWhatsApp = () => {

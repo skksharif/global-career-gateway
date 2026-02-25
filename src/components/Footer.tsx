@@ -10,7 +10,7 @@ const Footer = () => (
         {/* About */}
         <div>
           <h3 className="text-lg font-extrabold text-primary-foreground mb-4">
-            Visa<span className="text-green-brand">axis</span>
+            Visa<span className="text-green-brand">axsis</span>
           </h3>
           <p className="text-primary-foreground/60 text-sm leading-relaxed mb-4">
             Grab Your Global Career Journey With Us. We provide end-to-end support for education loans, forex, visa processing, and university admissions.
@@ -74,7 +74,7 @@ const Footer = () => (
       </div>
 
       <div className="border-t border-primary-foreground/10 pt-6 text-center">
-        <p className="text-xs text-primary-foreground/40">© 2025 Visaaxis. All rights reserved.</p>
+        <p className="text-xs text-primary-foreground/40">© 2025 Visa axsis. All rights reserved.</p>
       </div>
     </div>
   </footer>
